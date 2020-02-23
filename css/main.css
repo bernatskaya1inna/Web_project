@@ -94,6 +94,8 @@ header {
 
 main .top-banner {
   background-image: url("../images/banner.png");
+  background-size: cover;
+  background-position: 0 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
